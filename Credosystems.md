@@ -4,6 +4,6 @@ Welcome to Credo Systems
 - Python
 - Java
 - HTML
-- Css
+- Css and more
 - Javascript
 - Git Hub
