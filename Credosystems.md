@@ -5,3 +5,5 @@ Welcome to Credo Systems
 - Java
 - HTML
 - Css
+- Javascript
+- Git Hub
